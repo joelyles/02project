@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+Form {
+  position: fixed;
+}
+
+ul {
+  padding: 3rem 2rem 1rem;
+}
+
+td {
+  border: 1px solid black;
+}
